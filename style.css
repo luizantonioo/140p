@@ -1,0 +1,37 @@
+.heading{
+    font-size: 23px; /*tamanho da fonte*/
+    width: 100%; /*largura*/
+    margin: 0px; /*margem*/
+}
+
+.note{
+    font-size: 15px; 
+    color: red; /*cor da fonte*/
+}
+
+body{
+    background-size: cover; /*tamanho do plano de fundo*/
+}
+
+.div_speed{
+    float: left; /*posição da div para a esquerda*/
+}
+
+.div_speed_img{
+    width: 200px; 
+    border-radius: 100px; 
+}
+
+.div_volume{
+    float: right; /*posição da div para a direita*/
+}
+
+.div_volume_img{
+    width: 200px; 
+    border-radius: 100px; 
+}
+
+#speed, #volume{
+    font-size:23px; 
+    margin:15px; 
+}
